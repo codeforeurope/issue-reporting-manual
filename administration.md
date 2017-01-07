@@ -1,5 +1,4 @@
-#
-Administration
+#Administration
 
 Open your browser with the link 
 [http://localhost:8000/admin](http://localhost:8000/admin)
